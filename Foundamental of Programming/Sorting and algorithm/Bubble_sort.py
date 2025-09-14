@@ -12,5 +12,5 @@ def bubble_sort(lst):
 
 # Example usage:
 print(bubble_sort([64, 34, 25, 12, 22, 11, 90]))  # Output: [11, 12, 22, 25, 34, 64, 90]
-print(bubble_sort([5, 1, 4, 2, 8]))               # Output: [1, 2, 4, 5, 8]
+
 print(bubble_sort([12,25,11,34,90,22]))               # Output: [1, 2, 4, 5, 8]
