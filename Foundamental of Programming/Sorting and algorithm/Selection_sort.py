@@ -39,6 +39,7 @@ def selection_sort(arr):
     return arr
      
 unsorted_list =[12,25,11,34,90,22]
+unsorted_list=[29, 10, 14, 37, 13]
 sorted_list = selection_sort(unsorted_list)
 print("sorted element:",sorted_list)
 
